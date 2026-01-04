@@ -4,7 +4,7 @@
 <!-- ===================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=140&section=header&text=Fog%20%7C%20Product%20Engineer&fontSize=34&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=180&section=header&text=Fog%20%7C%20Product%20Engineer&fontSize=36&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
@@ -175,5 +175,5 @@ My personal standard remains unchanged:
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,50:203A43,100:0F2027&height=90&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
