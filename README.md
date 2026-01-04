@@ -148,6 +148,18 @@ My personal standard remains unchanged:
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dreamboy1339&show_icons=true&hide_title=true&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamboy1339&layout=compact" />
+</p>
+
+---
+
 ## 📬 Contact
 
 - GitHub: [@dreamboy1339](https://github.com/dreamboy1339)
