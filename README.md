@@ -1,34 +1,38 @@
-<!-- ========================= -->
-<!--  GitHub Profile README   -->
-<!-- ========================= -->
-
-<h1 align="center">👋 Hi, I’m Fog</h1>
+<!-- ===================================== -->
+<!--   GitHub Profile README | Fog         -->
+<!-- ===================================== -->
 
 <p align="center">
-  <b>Product Engineer · Android Developer (15+ years)</b><br/>
-  Clean architecture · Pragmatic engineering · Products that ship 🚀
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=180&section=header&text=Fog%20%7C%20Product%20Engineer&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+</p>
+
+<h2 align="center">Android Developer · Product Engineer</h2>
+
+<p align="center">
+  <b>15+ years of Android Native Development</b><br/>
+  Clean Architecture · Pragmatic Engineering · Products that ship 🚀
 </p>
 
 <p align="center">
   <a href="https://github.com/dreamboy1339">
-    <img src="https://img.shields.io/badge/GitHub-dreamboy1339-181717?logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-dreamboy1339-181717?logo=github"/>
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
+## 👋 About Me
 
-- 📱 **Android Native Developer with 15+ years of experience**
+- 📱 **Android Native Developer (15+ years)**
   - Java → Kotlin → Jetpack Compose까지 전 세대 실전 경험
-- 🧩 **Clean Architecture / MVVM / MVI** 기반 구조 설계
-- 🎨 UI·UX와 코드 품질 사이의 균형을 중시하는 **Product-minded Engineer**
-- ⚙️ 최근에는 **Embedded (STM32)**, **Rust** 등  
+- 🧩 **Clean Architecture / MVVM / MVI** 중심의 구조 설계
+- 🎨 UI·UX와 코드 품질을 함께 고려하는 **Product-minded Engineer**
+- ⚙️ **Embedded (STM32)**, **Rust** 등  
   → *아래 레이어를 이해하는 개발자*로 확장 중
-- ✍️ 배운 것은 정리하고 공유하는 걸 좋아합니다
+- ✍️ 배운 것은 정리하고 공유하는 스타일
 
 > “코드는 수단이고,  
-> **유지 가능한 제품이 목표다**.”
+> **유지 가능한 제품을 만드는 것이 목표다**.”
 
 ---
 
@@ -66,16 +70,16 @@
 
 ---
 
-## 📌 What I’m Focused On
+## 🎯 What I’m Focused On
 
 - ✨ **Jetpack Compose 기반 UI 아키텍처 고도화**
 - 🧪 재사용 가능한 Android core / network / domain 모듈 설계
-- 🧠 모바일 개발자가 시스템을 이해하기 위한 저수준 학습
+- 🧠 모바일 개발자의 시야 확장을 위한 저수준 학습
 - ✍️ 실무 기반 기술 정리 & 글쓰기
 
 ---
 
-## 🧠 My Engineering Philosophy
+## 🧠 Engineering Philosophy
 
 - 🧱 Architecture exists to **support change**, not to show off
 - 🧪 Testability is a **design choice**, not an afterthought
@@ -91,7 +95,7 @@
 ## 📦 Selected Work
 
 > 공개 프로젝트는 많지 않지만,  
-> **실무에서 바로 쓰이는 구조와 설계**를 중요하게 생각합니다.
+> **실무에서 바로 쓰이는 구조와 설계**를 가장 중요하게 생각합니다.
 
 - 🧩 **Android Architecture Templates**
   - Clean Architecture 기반 Android 프로젝트 구조
@@ -103,15 +107,15 @@
   - 실서비스 기준으로 다듬는 중
 
 - ⚙️ **Embedded & Low-level Experiments**
-  - STM32, Rust 학습 및 실험용 코드
-  - 모바일 개발자의 시야 확장 목적
+  - STM32, Rust 학습 및 실험 코드
+  - 모바일 개발자의 시스템 이해 확장 목적
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dreamboy1339&show_icons=true&hide_title=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dreamboy1339&show_icons=true&count_private=true&hide_title=true" />
 </p>
 
 <p align="center">
@@ -127,6 +131,12 @@
 ---
 
 <p align="center">
-  ⭐️ <i>If you care about Android architecture, product-oriented engineering,<br/>
-  or just enjoy clean code — feel free to explore and connect.</i>
+  ⭐️ <i>
+  Android architecture · Product-oriented engineering · Clean code<br/>
+  관심 있으면 언제든지 편하게 연락 주세요.
+  </i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
 </p>
