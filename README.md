@@ -1,9 +1,10 @@
 <!-- ===================================== -->
 <!--   GitHub Profile README | Fog         -->
+<!--   Premium · No Stats Edition          -->
 <!-- ===================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=180&section=header&text=Fog%20%7C%20Product%20Engineer&fontSize=36&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=140&section=header&text=Fog%20%7C%20Product%20Engineer&fontSize=34&fontColor=ffffff" />
 </p>
 
 <h2 align="center">Android Developer · Product Engineer</h2>
@@ -27,7 +28,7 @@
   - Java → Kotlin → Jetpack Compose까지 전 세대 실전 경험
 - 🧩 **Clean Architecture / MVVM / MVI** 중심의 구조 설계
 - 🎨 UI·UX와 코드 품질을 함께 고려하는 **Product-minded Engineer**
-- ⚙️ **Embedded (STM32)**, **Rust** 등  
+- ⚙️ **Embedded (STM32)**, **Rust**  
   → *아래 레이어를 이해하는 개발자*로 확장 중
 - ✍️ 배운 것은 정리하고 공유하는 스타일
 
@@ -94,8 +95,7 @@
 
 ## 📦 Selected Work
 
-> 공개 프로젝트는 많지 않지만,  
-> **실무에서 바로 쓰이는 구조와 설계**를 가장 중요하게 생각합니다.
+> 숫자보다 **어떻게 설계하는지**를 더 중요하게 생각합니다.
 
 - 🧩 **Android Architecture Templates**
   - Clean Architecture 기반 Android 프로젝트 구조
@@ -112,18 +112,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dreamboy1339&show_icons=true&hide_title=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dreamboy1339&layout=compact" />
-</p>
-
----
-
 ## 📬 Contact
 
 - GitHub: [@dreamboy1339](https://github.com/dreamboy1339)
@@ -131,12 +119,12 @@
 ---
 
 <p align="center">
-  ⭐️ <i>
+  <i>
   Android architecture · Product-oriented engineering · Clean code<br/>
-  관심 있으면 언제든지 편하게 연락 주세요.
+  숫자보다 구조, 속도보다 지속 가능성을 추구합니다.
   </i>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,50:203A43,100:0F2027&height=90&section=footer"/>
 </p>
