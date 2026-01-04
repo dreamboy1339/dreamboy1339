@@ -115,7 +115,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dreamboy1339&show_icons=true&count_private=true&hide_title=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dreamboy1339&show_icons=true&hide_title=true" />
 </p>
 
 <p align="center">
