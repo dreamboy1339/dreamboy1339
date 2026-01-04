@@ -7,6 +7,11 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=140&section=header&text=Fog%20%7C%20Product%20Engineer&fontSize=34&fontColor=ffffff" />
 </p>
 
+<p align="center">
+  <a href="./README.md"><b>English</b></a> ·
+  <a href="./README.ko.md">한국어</a>
+</p>
+
 <h2 align="center">Android Developer · Product Engineer</h2>
 
 <p align="center">
