@@ -149,7 +149,7 @@ Android 초창기 시절부터 여러 서비스의
   - 모바일 개발자의 시스템 이해 확장 목적
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -161,7 +161,7 @@ Android 초창기 시절부터 여러 서비스의
 </p>
 
 ---
-
+-->
 ## 📬 Contact
 
 - GitHub: [@dreamboy1339](https://github.com/dreamboy1339)
