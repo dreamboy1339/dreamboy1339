@@ -147,7 +147,7 @@ My personal standard remains unchanged:
   - Exploring systems beyond mobile applications
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -159,7 +159,7 @@ My personal standard remains unchanged:
 </p>
 
 ---
-
+-->
 ## 📬 Contact
 
 - GitHub: [@dreamboy1339](https://github.com/dreamboy1339)
