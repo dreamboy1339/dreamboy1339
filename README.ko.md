@@ -165,6 +165,8 @@ Android 초창기 시절부터 여러 서비스의
 ## 📬 Contact
 
 - GitHub: [@dreamboy1339](https://github.com/dreamboy1339)
+- LinkedIn: [learning about unlearning](www.linkedin.com/in/jaewoo-hwang-a8bb4146)
+- X(ex. twitter): [Fog](https://x.com/dreamboy1339)
 
 ---
 
